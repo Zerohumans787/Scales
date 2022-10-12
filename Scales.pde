@@ -1,4 +1,4 @@
-int offSet=50;
+int offSet=(int)(Math.random()*100);
 void setup() {
   size(1000, 750);  //feel free to change the size
   noLoop(); //stops the draw() function from repeating
